@@ -1,0 +1,13 @@
+C:\Users\zvere\source\repos\TestStand\TestStand\bin\Debug\netcoreapp3.1\TestStand.exe
+C:\Users\zvere\source\repos\TestStand\TestStand\bin\Debug\netcoreapp3.1\TestStand.deps.json
+C:\Users\zvere\source\repos\TestStand\TestStand\bin\Debug\netcoreapp3.1\TestStand.runtimeconfig.json
+C:\Users\zvere\source\repos\TestStand\TestStand\bin\Debug\netcoreapp3.1\TestStand.runtimeconfig.dev.json
+C:\Users\zvere\source\repos\TestStand\TestStand\bin\Debug\netcoreapp3.1\TestStand.dll
+C:\Users\zvere\source\repos\TestStand\TestStand\bin\Debug\netcoreapp3.1\TestStand.pdb
+C:\Users\zvere\source\repos\TestStand\TestStand\obj\Debug\netcoreapp3.1\TestStand.csprojAssemblyReference.cache
+C:\Users\zvere\source\repos\TestStand\TestStand\obj\Debug\netcoreapp3.1\TestStand.AssemblyInfoInputs.cache
+C:\Users\zvere\source\repos\TestStand\TestStand\obj\Debug\netcoreapp3.1\TestStand.AssemblyInfo.cs
+C:\Users\zvere\source\repos\TestStand\TestStand\obj\Debug\netcoreapp3.1\TestStand.csproj.CoreCompileInputs.cache
+C:\Users\zvere\source\repos\TestStand\TestStand\obj\Debug\netcoreapp3.1\TestStand.dll
+C:\Users\zvere\source\repos\TestStand\TestStand\obj\Debug\netcoreapp3.1\TestStand.pdb
+C:\Users\zvere\source\repos\TestStand\TestStand\obj\Debug\netcoreapp3.1\TestStand.genruntimeconfig.cache
